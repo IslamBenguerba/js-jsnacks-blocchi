@@ -17,3 +17,7 @@ card.innerHTML += `<span>i numeri dispari sono ${listaNumeriDispari}</span>`
 card.innerHTML += `<span> la loro somma è ${somma}</span>`
 console.log(somma)
 
+
+
+
+
